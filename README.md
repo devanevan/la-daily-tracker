@@ -1,4 +1,4 @@
-# LA Daily Tracker
+# LA Tracker
 
 Small script which tracks your dailies via OCR, saving the amount of endgame gold earning raids you left per character to a redis hashset.
 
